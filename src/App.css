@@ -1,0 +1,57 @@
+.image{
+
+  background-size: 100vh;
+  background-color:rgb(80, 51, 189);
+ }
+ 
+ .container{
+     text-align: center;
+     padding: 30px;
+     
+ }
+ 
+ .heading{
+     color:orange;
+     text-decoration: solid;
+     font-family: Arial, Helvetica, sans-serif;
+     text-align: center;
+ 
+ }
+ 
+ .head-one{
+     text-align: center;
+     color: aliceblue;
+     text-decoration: dotted;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }
+ 
+ .para-one{
+     color:orange;
+     text-decoration: solid;
+     font-weight: bold;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+ 
+ }
+ 
+ .para-two{
+     color:orange;
+     text-decoration: solid;
+     font-weight: bold;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     text-align: center;
+ 
+ }
+ .main-page{
+     font-family: 'Courier New', Courier, monospace;
+     text-decoration: solid;
+     color: red;
+ }
+ 
+ .location{
+     font-family: 'Courier New', Courier, monospace;
+     text-decoration: solid;
+     color:aliceblue;
+     text-align: center;
+     text-decoration: solid;
+ }
