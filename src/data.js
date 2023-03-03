@@ -566,7 +566,7 @@ const data=[
       "username": "Moriah.Stanton",
       "phone": "1-770-736-8031 x56442",
       "bloodGroup":"A+",
-      "location":'tpg'
+      "location":'tanuku',
 
       
     },
